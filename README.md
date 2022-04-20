@@ -3,7 +3,7 @@
 ## Problem Overview
 
 We have worked on a dataset that contains news headlines - which are aimed to be written in a sarcastic manner by the news author.
-Our object wass to build a Natural Language Processing [model](https://github.com/AndreasAvgou/Sarcasm-Prediction-Model/blob/main/Sarcasm%20Prediction%20Model.ipynb) for predicting whether the headline is sarcastic or not
+Our object was to build a Natural Language Processing [model](https://github.com/AndreasAvgou/Sarcasm-Prediction-Model/blob/main/Sarcasm%20Prediction%20Model.ipynb) for predicting whether the headline is sarcastic or not
 
 ## Data Description
 Each record of dataset consists of two attributes:
