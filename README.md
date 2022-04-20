@@ -1,4 +1,4 @@
-# Sarcasm Prediction Model
+# Sarcasm Prediction
 
 ## Problem Overview
 
