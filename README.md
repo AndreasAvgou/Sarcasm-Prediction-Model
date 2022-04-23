@@ -1,4 +1,5 @@
 # Sarcasm Prediction
+![do-sentiment-analysis-text-analysis-twitter-nlp-and-ai](https://user-images.githubusercontent.com/22665704/164947374-b38eb0b0-0950-4445-81f1-f95f64494d9f.jpg)
 
 ## Problem Overview
 
